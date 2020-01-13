@@ -1,6 +1,6 @@
 1. Requirements:
    1.1 Need Python to be installed.
-   1.2 Some sort of git bash need to installed (vscode console can run it too. Maybe...).
+   1.2 Some sort of git bash need to be installed (vscode console can run it too. Maybe...).
 
 2. Installation:
    2.1 git clone https://github.com/hi-im-yan/Init_Repo_Automation.git
@@ -16,5 +16,5 @@
    3.6 On the same file. Insert your GitHub username and password on the related variables.
 
 4. Run:
-   4.1 (On Git Bash) sh create_repo.sh <Project_name>
+   4.1 (On Git Bash) sh create_repo.sh <Project_name> (This step is going to depend on your console choice. Search on google how to run .sh files on your console.)
    4.2 That's it.
