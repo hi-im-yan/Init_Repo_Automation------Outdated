@@ -1,3 +1,6 @@
+What this code do:
+This code automate the process of creating project folders and project repositories on github. Run this code and it will automatically create a new repository, create a new folder on your file explorer, open your IDE and make a connection of your folder to the repository (git init, git remote add, etc). And then you are ready to code, commit and push. No need to configurate the boring parts.
+
 1. Requirements:
    1.1 Need Python to be installed.
    1.2 Some sort of git bash need to be installed (vscode console can run it too. Maybe...).
@@ -18,3 +21,13 @@
 4. Run:
    4.1 (On Git Bash) sh create_repo.sh <Project_name> (This step is going to depend on your console choice. Search on google how to run .sh files on your console.)
    4.2 That's it.
+
+
+Pros:
+   1. No need to open GitHub
+   2. No need to log on GitHub
+   3. No need to create repository on GitHub
+   4. No need to create a project folder on file explorer
+   5. No need to open your IDE
+   6. No need to "git init", "git remote add", etc
+   7. You just need to open console and run 1 one command line
