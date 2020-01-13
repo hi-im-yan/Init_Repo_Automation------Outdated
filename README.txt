@@ -16,5 +16,5 @@
    3.6 On the same file. Insert your GitHub username and password on the related variables.
 
 4. Run:
-   4.1 (On Git Bash) sh create_repo <Project_name>
+   4.1 (On Git Bash) sh create_repo.sh <Project_name>
    4.2 That's it.
